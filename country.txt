@@ -1,0 +1,3 @@
+DevOps
+
+DevOps is a combination of Development (Dev) and Operations (Ops). It is a set of practices that helps development and operations teams work together to build, test, deploy, and maintain software more efficiently. DevOps focuses on automation, collaboration, continuous integration, continuous delivery, monitoring, and faster software releases. Common DevOps tools include Linux, Git, GitHub, Docker, Jenkins, Kubernetes, Terraform, and cloud platforms such as AWS, Azure, and Google Cloud. By using DevOps practices, organizations can reduce errors, improve software quality, release applications faster, and maintain reliable systems.
